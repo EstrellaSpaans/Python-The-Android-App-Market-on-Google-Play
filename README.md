@@ -1,5 +1,4 @@
 # Python-The-Android-App-Market-on-Google-Play
-This project led me apply the skills from Data Manipulation with pandas from DataCamp. 
 
 In this Jupiter Notebook, I performed comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories. 
 
